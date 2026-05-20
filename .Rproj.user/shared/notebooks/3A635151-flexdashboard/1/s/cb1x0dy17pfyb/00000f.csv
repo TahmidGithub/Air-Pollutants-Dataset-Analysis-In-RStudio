@@ -1,0 +1,24 @@
+"0",""
+"0","fig1 <- plot_ly(TOTAL_DATE, "
+"0","               x = ~time, "
+"0","               y = ~PM10,"
+"0","               color = ~Date,"
+"0","               type = 'scatter', "
+"0","               mode = 'lines+markers') %>%"
+"0","  layout(title = ""PM10 Levels by Date"","
+"0","         xaxis = list(title = ""Time""),"
+"0","         yaxis = list(title = ""PM10 Concentration""))"
+"0",""
+"0","fig1"
+"2","Warning: n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+"
+"2","Warning: n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+"
+"2","Warning: n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+"
+"2","Warning: n too large, allowed maximum for palette Set2 is 8
+Returning the palette you asked for with that many colors
+"
